@@ -12,12 +12,6 @@ The design includes:
 * Pass transistor
 * Feedback network
 
-## Specifications
-
-* Input Voltage: (your value)
-* Output Voltage: (your value)
-* Load Current: (your value)
-* Dropout Voltage: (your value)
 
 ## Working Principle
 
@@ -25,7 +19,7 @@ The LDO regulates the output voltage using feedback. The error amplifier compare
 
 ## Simulation
 
-The circuit was simulated using (LTspice / Cadence / MATLAB).
+The circuit was simulated using 
 
 ### Results
 
@@ -49,5 +43,4 @@ The circuit was simulated using (LTspice / Cadence / MATLAB).
 The LDO was successfully designed and simulated to regulate voltage under given conditions.
 
 ## Author
-
-Your Name
+Krishna 
